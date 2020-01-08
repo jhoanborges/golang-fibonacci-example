@@ -1,6 +1,6 @@
 # Information
 
-In this example, i tested the go language created by google, evaluating the first 500 numbers of fibonacci sequences. The result is pretty awesome and incredibly fast.
+In this example, i tested the go language created by google, evaluating the first 500 numbers of fibonacci sequence. The result is pretty awesome and incredibly fast.
 
 ## Usage
 
